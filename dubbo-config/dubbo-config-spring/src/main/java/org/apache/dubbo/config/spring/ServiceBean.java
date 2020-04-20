@@ -54,7 +54,7 @@ import static org.apache.dubbo.config.spring.util.BeanFactoryUtils.addApplicatio
 
 /**
  * ServiceFactoryBean
- *
+ * 开始
  * @export
  */
 public class ServiceBean<T> extends ServiceConfig<T> implements InitializingBean, DisposableBean,
